@@ -1,0 +1,48 @@
+{ Пример 1: Арифметические операции и ввод/вывод данных }
+    dim a, b, c integer;
+    read(a, b);
+    c ass a * a + b * b;
+    write(c);
+
+    { Пример 2: Условный оператор и логические выражения }
+    dim x, y integer;
+    dim result boolean;
+    read(x, y);
+    result ass (x > 0) and (y > 0);
+    if result then 
+        write("Both are positive");
+    else 
+        write("At least one is not positive");
+
+    { Пример 3: Фиксированный цикл и условие }
+    dim n, i, factorial integer;
+    read(n);
+    factorial ass 1;
+    for i ass 1 to n do 
+        factorial ass factorial * i;
+    write(factorial);
+
+    { Пример 4: Условный цикл }
+    dim n, sum integer;
+    sum ass 0;
+    read(n);
+    while n > 0 do
+    {
+        sum ass sum + n;
+        n ass n - 1;
+    }
+    write(sum);
+
+    { Пример 5: Работа с вещественными числами и многострочные комментарии }
+    dim a, b, c, discriminant real;
+    dim hasRoots boolean;
+    read(a, b, c);
+
+    { Вычисление дискриминанта квадратного уравнения }
+    discriminant ass b * b - 4 * a * c;
+    hasRoots ass discriminant >= 0;
+
+    if hasRoots then
+        write("There are real roots");
+    else
+        write("No real roots");

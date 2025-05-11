@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\Programming\\Compilation Theory\\11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E3C464-4741-46CC-B755-CD0E13C2DC7A}|4-5\\4-5.vcxproj|C:\\Users\\Artem\\Desktop\\Programming\\Compilation Theory\\11\\4-5\\4-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6E3C464-4741-46CC-B755-CD0E13C2DC7A}|4-5\\4-5.vcxproj|solutionrelative:4-5\\4-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E3C464-4741-46CC-B755-CD0E13C2DC7A}|4-5\\4-5.vcxproj|C:\\Users\\Artem\\Desktop\\Programming\\Compilation Theory\\11\\4-5\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6E3C464-4741-46CC-B755-CD0E13C2DC7A}|4-5\\4-5.vcxproj|solutionrelative:4-5\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\AppData\\Local\\Temp\\86209d9a-ffb0-4f3b-a3a9-451339f96471_\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04401.zip.471\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04401\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\AppData\\Local\\Temp\\d26156c8-30d6-449f-84b3-4f36a5419df5_lab 1.zip.df5\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\Compilation Theory\\7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440.cpp",
+              "DocumentMoniker": "C:\\Users\\Artem\\AppData\\Local\\Temp\\86209d9a-ffb0-4f3b-a3a9-451339f96471_\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04401.zip.471\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04401\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\86209d9a-ffb0-4f3b-a3a9-451339f96471_\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04401.zip.471\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04401\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440.cpp",
+              "ToolTip": "C:\\Users\\Artem\\AppData\\Local\\Temp\\86209d9a-ffb0-4f3b-a3a9-451339f96471_\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04401.zip.471\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04401\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440.cpp [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\86209d9a-ffb0-4f3b-a3a9-451339f96471_\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04401.zip.471\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04401\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440.cpp [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T14:20:06.346Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ViewState": "AQIAAE4HAAAAAAAAAAAowG8HAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-23T16:58:08.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab1.cpp",
+              "DocumentMoniker": "C:\\Users\\Artem\\AppData\\Local\\Temp\\d26156c8-30d6-449f-84b3-4f36a5419df5_lab 1.zip.df5\\lab1.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\d26156c8-30d6-449f-84b3-4f36a5419df5_lab 1.zip.df5\\lab1.cpp",
+              "ToolTip": "C:\\Users\\Artem\\AppData\\Local\\Temp\\d26156c8-30d6-449f-84b3-4f36a5419df5_lab 1.zip.df5\\lab1.cpp [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\d26156c8-30d6-449f-84b3-4f36a5419df5_lab 1.zip.df5\\lab1.cpp [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T17:34:22.725Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4-5.cpp",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Compilation Theory\\11\\4-5\\4-5.cpp",
+              "RelativeDocumentMoniker": "4-5\\4-5.cpp",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Compilation Theory\\11\\4-5\\4-5.cpp",
+              "RelativeToolTip": "4-5\\4-5.cpp",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAAOMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T09:02:39.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file.txt",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Compilation Theory\\11\\4-5\\file.txt",
+              "RelativeDocumentMoniker": "4-5\\file.txt",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Compilation Theory\\11\\4-5\\file.txt",
+              "RelativeToolTip": "4-5\\file.txt",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-06T10:08:15.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "7.cpp",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Compilation Theory\\7.cpp",
+              "RelativeDocumentMoniker": "..\\7.cpp",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Compilation Theory\\7.cpp",
+              "RelativeToolTip": "..\\7.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T08:41:26.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
